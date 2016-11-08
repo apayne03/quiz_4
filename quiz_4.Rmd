@@ -1,0 +1,25 @@
+---
+title: "Quiz_4"
+author: "Alyssa Payne"
+date: "November 8, 2016"
+output: html_document
+---
+# Question A - Hypotheses
+
+a) There should be a positive relation between self-esteem and academic performance, where if self-esteem increases then academic performance increases. 
+b) There should be a negative relation between self-esteem and quality of dating relationships, where if self-esteem increases then quality of dating relationships decreases. 
+c) There should be a positive relation between self-esteem and quality of friendships, where if self-esteem increases then quality of friendships increases. 
+
+# Question B - Analysis Plan A
+
+a) I will test hypothesis a using a bivariate correlation. I conducted a power analysis and found that to get a power of .80, I will need n = 28.
+b) I will test hypothesis b using a bivariate correlation. Using the lower bound CI of a correlation found in a previous study, I conducted a safeguard power analysis which indicates that to get a power of .80 I need n = 646.
+c) I will test hypothesis c using a bivariate correlation. I am assuming a small effect size based on the suggestion of the theory papers mentioned; because I am in IO I will use r = .07 for a weak effect size (Bosco et al.). I conducted a power analysis which indicates that to get a power of .80, I need n = 1599. 
+
+# Question C - Analysis Plan B
+
+a) I will test hypothesis a using a bivariate correlation. I conducted a power analysis which indicates that to get a power of .80 I need n = 38
+b) I will test hypothesis b using a bivariate correlation. Using the lower bound CI of a correlation found in a previous study, I conducted a safeguard power analysis which indicates that to get a power of .80 I need n = 645.
+c) I will test hypothesis c using a bivariate correlation. I conducted power analysis which indicates that to get a power of .80 I need n = 2500.
+
+Overall N to be used is 2,500.
